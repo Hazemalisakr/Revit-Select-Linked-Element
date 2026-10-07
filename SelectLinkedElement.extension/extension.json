@@ -1,0 +1,6 @@
+{
+    "name": "SelectLinkedElement",
+    "description": "Select an element inside a Revit linked model by entering its Element ID.",
+    "author": "Hazem Sakr",
+    "version": "1.0.0"
+}

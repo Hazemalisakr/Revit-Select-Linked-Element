@@ -1,0 +1,8 @@
+title: "Select Linked\nElement"
+tooltip: >
+  Select an element inside a Revit linked model by typing its Element ID.
+  No graphical picking required.
+  Supports Revit 2024 (64-bit ElementId).
+author: pyRevit Tool
+min_revit_ver: 2023
+max_revit_ver: 2025
